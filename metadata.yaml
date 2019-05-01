@@ -1,0 +1,20 @@
+_repo: Birthright_59329
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, April
+    gutenberg_agent_id: '50398'
+    url: http://www.gutenberg.org/2009/agents/50398
+description: ''
+gutenberg_issued: '2019-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Birthright
+url: http://www.gutenberg.org/ebooks/59329
